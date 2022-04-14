@@ -10,6 +10,6 @@
 
 ![javaimpl](screenshots/javaimpl.PNG)
 
-## Application python Cosommateur
+## Application python Cosommateur (avec library zeep)
 
 ![pythonimpl](screenshots/pythonimpl.PNG)
