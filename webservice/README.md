@@ -1,15 +1,15 @@
 ## Application principale 
 
-<img src="./screenshots/main.png">
+![main](screenshots/main.PNG)
 
 ## WSDL file
 
-<img src="./screenshots/wsdl.png">
+![wsdl](screenshots/wsdl.PNG)
 
 ## Application java Cosommateur
 
-<img src="./screenshots/javaimpl.png">
+![javaimpl](screenshots/javaimpl.PNG)
 
 ## Application python Cosommateur
 
-<img src="./screenshots/pythonimpl.png">
+![pythonimpl](screenshots/pythonimpl.PNG)
