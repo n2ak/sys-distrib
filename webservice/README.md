@@ -6,10 +6,10 @@
 
 ![wsdl](screenshots/wsdl.PNG)
 
-## Application java Cosommateur
+## Application java Consommateur
 
 ![javaimpl](screenshots/javaimpl.PNG)
 
-## Application python Cosommateur (avec library zeep)
+## Application python Consommateur (avec library zeep)
 
 ![pythonimpl](screenshots/pythonimpl.PNG)
