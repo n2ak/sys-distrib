@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/javawebserviceconsumer/javawebserviceconsumer.iml" filepath="$PROJECT_DIR$/javawebserviceconsumer/javawebserviceconsumer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/webservice.iml" filepath="$PROJECT_DIR$/.idea/webservice.iml" />
+      <module fileurl="file://$PROJECT_DIR$/webservicemain/webservicemain.iml" filepath="$PROJECT_DIR$/webservicemain/webservicemain.iml" />
+    </modules>
+  </component>
+</project>
